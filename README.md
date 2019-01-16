@@ -50,7 +50,7 @@ References for studying and common use.
 [Reshot](https://www.reshot.com/)
 
 ## Free Themes
-[Themewagon](https://themewagon.com/theme_tag/free/) [Themewagon chosen] (https://themewagon.com/100-free-best-one-page-responsive-html5-bootstrap-templates-all-time/)
+[Themewagon](https://themewagon.com/theme_tag/free/)
 
 [OnePageLove](https://onepagelove.com/)
 
