@@ -27,3 +27,24 @@ References for studying and common use.
 [Picsum](https://picsum.photos/)
 
 [Placeholder](https://placeholder.com/)
+
+## Free stock photos
+[Unsplash](https://unsplash.com/)
+
+[Gratisography](https://gratisography.com/)
+
+[Morguefile](https://morguefile.com/)
+
+[Pixabay](https://pixabay.com/)
+
+[Stockvault](http://www.stockvault.net/)
+
+[Pexels](https://www.pexels.com/)
+
+[Picjumbo](https://picjumbo.com/)
+
+[Pikwizard](https://www.pikwizard.com/)
+
+[Rawpixel](https://www.rawpixel.com/)
+
+[Reshot](https://www.reshot.com/)
