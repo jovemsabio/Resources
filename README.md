@@ -57,3 +57,6 @@ References for studying and common use.
 [JustFreeThemes - Wordpress Themes](https://justfreethemes.com/)
 
 [StyleShout](https://www.styleshout.com/free-templates/)
+
+## Favicons
+[Free Favicon](https://www.freefavicon.com/freefavicons/abstract/alpha.php?alpha=a)
