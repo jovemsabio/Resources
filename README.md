@@ -60,3 +60,6 @@ References for studying and common use.
 
 ## Favicons
 [Free Favicon](https://www.freefavicon.com/freefavicons/abstract/alpha.php?alpha=a)
+
+## Linux
+[Gdrive command line](https://github.com/gdrive-org/gdrive)
