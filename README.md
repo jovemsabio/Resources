@@ -63,3 +63,8 @@ References for studying and common use.
 
 ## Linux
 [Gdrive command line](https://github.com/gdrive-org/gdrive)
+
+## Electron
+[Electron](https://electronjs.org/)
+
+[Awesome Electron](https://github.com/sindresorhus/awesome-electron)
